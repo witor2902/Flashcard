@@ -6,13 +6,13 @@ criaCartao(
 
 criaCartao(
     'Campeonato Brasileiro',
-    'Quatas vezes o Flamengo já conquistou o Campeonato Brasileiro?',
-    'OIto vezes(1980, 1982, 1983, 1992, 2009, 2019, 2020, 2021).'
+    'Quantas vezes o Flamengo já conquistou o Campeonato Brasileiro?',
+    'Oito vezes(1980, 1982, 1983, 1992, 2009, 2019, 2020, 2021).'
 )
 
 criaCartao(
-    'Livros',
-    'Qual é o livro mais vendido de todos os tempos?',
+     'Goleada',
+    'Qual foi a maior goleada já aplicada pelo Flamenfo em um jogo oficial ?',
     'Flamengo 15x1 contra o Mangueira, em 1920'
 )
 
